@@ -1,6 +1,101 @@
-# Welcome to your Expo app 👋
+# 📱 Recurrly – Subscription Management App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+![Project Status](https://img.shields.io/badge/status-in--progress-yellow)
+
+## 🚀 About
+Recurrly is a modern mobile subscription management app built with React Native, Expo, and TypeScript. The project focuses on building clean, responsive user interfaces and explores mobile-first design, component-driven architecture, and real-world frontend development practices.
+
+This project is currently **in progress** and is being built while following a tutorial from JavaScript Mastery.
+
+---
+
+![React Native](https://img.shields.io/badge/-React%20Native-000000?style=flat-square&logo=react)
+![Expo](https://img.shields.io/badge/-Expo-000000?style=flat-square&logo=expo)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![NativeWind](https://img.shields.io/badge/-NativeWind-38BDF8?style=flat-square)
+
+---
+
+# 📌 Project Overview
+
+Recurrly is designed to demonstrate how modern mobile apps are built using a component-driven architecture.
+
+The platform allows users to:
+
+- View and manage subscriptions  
+- Track active and inactive services  
+- Monitor recurring expenses  
+- Navigate a clean and responsive mobile UI  
+
+The project explores how to build **scalable and maintainable frontend applications** using modern tools and frameworks.
+
+---
+
+## 📌 Project Retrospective
+
+- 📄 [View the Project Retrospective](./PROJECT_RETROSPECTIVE.md)
+
+Outlines key technical learnings, challenges faced, and how this project maps to industry practices.
+
+---
+
+# 🎯 Learning Goals
+
+This project focuses on learning and implementing:
+
+- React Native mobile development  
+- Component-based architecture  
+- Mobile-first UI/UX design  
+- State management and data handling  
+- Clean and maintainable code practices  
+- Cross-platform app development using Expo  
+
+---
+
+# ⚙️ Tech Stack
+
+**React Native** – Core framework for building mobile applications  
+**Expo** – Development environment and tooling for React Native  
+**TypeScript** – Static typing for scalable code  
+**NativeWind** – Tailwind-style utility-first styling for mobile  
+
+---
+
+# 🔋 Features
+
+👉 **Subscription Dashboard**  
+View all subscriptions in a clean and organised layout.
+
+👉 **Active & Inactive Tracking**  
+Easily differentiate between ongoing and cancelled services.
+
+👉 **Mobile-First UI**  
+Designed with responsiveness and usability in mind.
+
+👉 **Reusable Components**  
+Built using a modular and scalable component structure.
+
+👉 **Smooth Navigation**  
+Seamless user experience across screens.
+
+---
+
+# 🤸 Quick Start
+
+## ✅ Prerequisites
+
+Make sure you have the following installed:
+
+- Node.js  
+- npm  
+- Expo CLI  
+
+---
+
+## 📦 Install Dependencies
+
+```bash
+npm install
 
 ## Get started
 
@@ -25,26 +120,26 @@ In the output, you'll find options to open the app in a
 
 You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
 
-## Get a fresh project
+## 🚀 Run the Project
 
-When you're ready, run:
+`npx expo start`
 
-```bash
-npm run reset-project
-```
+Use Expo Go on your mobile device or an emulator to preview the app.
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 📺 Tutorial Reference
 
-To learn more about developing your project with Expo, look at the following resources:
+This project is being built while following a tutorial from JavaScript Mastery.
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## 📄 License
 
-Join our community of developers creating universal apps.
+This project is licensed under the MIT License.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## ⭐ Support
+
+If you found this project helpful, consider giving it a ⭐ on GitHub.
